@@ -11,7 +11,7 @@ In this game:
 3. Open a terminal and navigate to the project directory.
 4. Run the following command:
    ```
-   dart run guess_number.dart
+   dart run tebak_angka.dart
    ```
 ## Features
 - Interactive hints after each guess
